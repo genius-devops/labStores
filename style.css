@@ -28,3 +28,16 @@ a, li{
     text-decoration: none;
     list-style-type: none;
 }
+
+.header{
+    width: 100%;
+    float: left;
+}
+
+.header img{
+    width: 100%;
+}
+
+.content-wrapper{
+    
+}
